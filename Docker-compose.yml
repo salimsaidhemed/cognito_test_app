@@ -5,6 +5,6 @@ services:
     ports:
       - "5000:5000"
     volumes:
-      - .:/app
-  reverse_proxy:
+      - .:/apps
+
     
