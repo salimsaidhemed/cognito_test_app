@@ -1,0 +1,9 @@
+# A Sample App To test Cognito Authentication
+
+This is a Python Flask App that can be used to test AWS Cognito Authentication
+
+## Requirements
+
+1. A Wildcard Domain name
+2. An Amazon Certificate Manager Certificate signed against your Domain
+3. An **A** Record defined for your Domain
